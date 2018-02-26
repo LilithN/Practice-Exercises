@@ -22,3 +22,18 @@
   width: 100%;
   max-width: 1000px;
 }
+h1 {
+  background-image: url("https://raw.githubusercontent.com/LilithN/Practice-Exercises/master/Project-Blog/Pics/digital-348977_960_720.jpg");
+  height: 100px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: #38314f;
+  text-shadow: 3px 3px black;
+  text-transform: uppercase;
+
+}
+body {
+  align-items: center;
+  background-color: black;
+}
