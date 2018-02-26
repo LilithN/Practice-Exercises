@@ -17,12 +17,8 @@
      z-index:1;
 
  }
- #pic {
-     height:200px;
-     position:absolute;
-     top:20px;
-     max-width:1000px;
-     width:100%;
 
-
- }
+#pic2 {
+  width: 100%;
+  max-width: 1000px;
+}
