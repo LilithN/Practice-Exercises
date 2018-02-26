@@ -37,3 +37,31 @@ body {
   align-items: center;
   background-color: black;
 }
+h3 {
+  color: white;
+}
+h2 {
+    color: white;
+    text-decoration: underline;
+}
+h5 {
+    color: white;
+}
+ul {
+  color: white;
+}
+a:link {
+  color: violet;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: lightblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
