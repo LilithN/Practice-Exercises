@@ -1,27 +1,24 @@
- #thoughts {
-     font-family:helvetica;
-     line-height:1.5em;
-     width:70%;
-     background:rgb(166, 135, 166);
-     margin-left: 15px;
-     border:5px groove rgb(100, 6, 110);
-
+ .text {
+   width:70%;
+   background:rgb(166, 135, 166);
+   border:5px groove rgb(100, 6, 110);
+   margin: auto;
+   max-width: 1020px;
  }
- #text{
+ p {
      margin-left:15px;
-     color: rgb(69, 4, 69)
+     color: rgb(69, 4, 69);
+     line-height:1.5em;
+     font-family:helvetica;
  }
- #blog {
+
+ .blog {
      width:1000px;
      margin: auto;
      z-index:1;
 
  }
 
-#pic2 {
-  width: 100%;
-  max-width: 1000px;
-}
 h1 {
   background-image: url("https://raw.githubusercontent.com/LilithN/Practice-Exercises/master/Project-Blog/Pics/digital-348977_960_720.jpg");
   height: 100px;
@@ -65,7 +62,7 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
-#top {
+.top {
   position: relative;
   left: 413px;
 }
